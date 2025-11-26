@@ -5,3 +5,4 @@
 # 거듭제곱, 제곱근, 삼각함수는 advanced
 # 순열과 조합, ln, e등은 expression부분에 짜서 main으로 연결, init에서도 연결지었습니다.
 # 상위폴더까지만 열고 실행시키면 됩니다.
+<img width="1606" height="752" alt="1" src="https://github.com/user-attachments/assets/1562bdf4-1939-4aeb-87b4-0fa169736b9e" />
